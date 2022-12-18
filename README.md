@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Renanzera XD
 
 - 🔭 I’m currently working at @MBLabsDev
-- ⚡ Hobbies: Watch anime and study about software architecture
+- ⚡ Hobbies: Watching anime, studying software architecture and infrastructure
 - 🐋 I'm Docker enthusiast
 
 <div>
