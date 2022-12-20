@@ -28,6 +28,7 @@
 </div>
 <br />
 <div> 
+  <img src="https://komarev.com/ghpvc/?username=Renan1fps&label=Profile%20views&color=0e75b6&style=flat" alt="renan1fps" />
   <a href="https://instagram.com/renan_1fps" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
