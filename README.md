@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Renanzera XD
 
 - 🔭 I’m currently working at @MBLabsDev
-- ⚡ Hobbies: Watching anime, studying software architecture and infrastructure
-- 🐋 I'm Docker enthusiast
+- ⚡ Hobbies: Studying software architecture and infrastructure
+- 🐋 I'm Docker enthusiast.
+- ⚙️ DevOps enthusiast.
+- ❤️ TDD and DDD enthusiast.
 
 <div>
   <a href="https://github.com/Renan1fps">
