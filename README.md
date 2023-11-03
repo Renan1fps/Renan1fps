@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Renanzera XD
 
-- 🔭 I’m currently working at @elotech
 - ⚡ Hobbies: Studying software architecture and infrastructure
 - 🐋 I'm Docker enthusiast.
 - ⚙️ DevOps enthusiast.
